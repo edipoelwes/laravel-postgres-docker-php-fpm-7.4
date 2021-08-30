@@ -4,7 +4,7 @@
 
 # Parametrizar a API
 
-- Após clonar o projeto desafio-maxmilhas
+- Após clonar o projeto
    1. Através do terminal, entre no diretório do projeto `cd <projeto>`
    2. Execute `docker-compose up -d --build`
 
